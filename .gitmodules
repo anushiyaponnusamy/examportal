@@ -1,0 +1,3 @@
+[submodule "ExamPortalFrontendVscode"]
+	path = ExamPortalFrontendVscode
+	url = https://github.com/anushiyaponnusamy/examportal.git
